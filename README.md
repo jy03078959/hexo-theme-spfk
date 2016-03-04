@@ -39,7 +39,7 @@ hexo-theme-spfk
 #### 安装
 
 ```
-$ git clone https://github.com/luuman/hexo-theme-spfk.git themes/spfk
+$ git clone git@github.com:jy03078959/hexo-theme-spfk.git
 ```
 
 #### 配置
